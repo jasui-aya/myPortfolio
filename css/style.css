@@ -461,7 +461,7 @@ body {
 /* --- kv --- */
 .top_kv{
   height: 100vh;
-  background: linear-gradient(rgba(51, 51, 51, 0.2), rgba(51, 51, 51, 0.2)), url(/img/ryan-wallace-azA1hLbjBBo-unsplash.jpg) left top / cover;
+  background: linear-gradient(rgba(51, 51, 51, 0.2), rgba(51, 51, 51, 0.2)), url(../img/ryan-wallace-azA1hLbjBBo-unsplash.jpg) left top / cover;
 
   position: relative;
 }
