@@ -73,5 +73,7 @@ document.addEventListener("DOMContentLoaded", function () {
     time_24hr: true,
     minTime: "10:00",
     maxTime: "19:00",
+    disableMobile: true, 
+    // スマホでカレンダーが消えないようにするやつ↑
   });
 });
