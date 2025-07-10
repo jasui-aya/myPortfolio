@@ -62,11 +62,11 @@ body {
 
 /* --- component --- */
 /*  --- section --- */
-.m_h2-title-deco{
+.m_section-title_deco{
   color: var(--main-color);
 }
 @media screen and (min-width: 1080px) {
-  .m_h2-title-deco{
+  .m_section-title_deco{
     font-size: 18px;
   }
 }
@@ -84,7 +84,7 @@ body {
 }
 
 @media screen and (min-width: 1080px) {
-  .m_section-title-box{
+  .m_section_title-box{
     text-align: center;
   }
 }
@@ -544,7 +544,7 @@ body {
   border-radius: 50px;
 }
 
-.about_img_problem-txt{
+.about_img_problem-text{
   font-size: 14px;
   width: 135px;
   height: 34px;
@@ -573,11 +573,11 @@ body {
 }
 
 /* --- lessons --- */
-.top_lessons-txt{
+.top_lessons_text{
   margin-top: 16px;
 }
 @media screen and (min-width: 1080px) {
-  .top_lessons-txt{
+  .top_lessons_text{
     text-align: center;
     margin-top: 24px;
   }
@@ -615,7 +615,7 @@ body {
   margin-top: 8px;
 }
 
-.top_lessons_icon-txt{
+.top_lessons_icon-text{
   font-size: 14px;
   padding: 8px 4px 0;
 }
@@ -1000,11 +1000,11 @@ body {
 
 
 /* --- before&after --- */
-.top_ba-txt{
+.top_ba-text{
   margin-top: 16px;
 }
 @media screen and (min-width: 1080px) {
-  .top_ba-txt{
+  .top_ba-text{
     margin-top: 24px;
     text-align: center;
   }
@@ -1184,11 +1184,11 @@ td.table_border_after{
 }
 
 /*  --- trial lesson flow --- */
-.top_trial_main-txt{
+.top_trial_main-text{
   margin-top: 16px;
 }
 @media screen and (min-width: 1080px) {
-  .top_trial_main-txt{
+  .top_trial_main-text{
     margin-top: 24px;
     text-align: center;
   }
@@ -1330,7 +1330,7 @@ td.table_border_after{
 }
 
 
-.top_trial_sub-txt{
+.top_trial_sub-text{
   font-size: 14px;
   margin-top: 16px;
   letter-spacing: 0.1em;
