@@ -1473,6 +1473,17 @@ td.table_border_after{
 .top_access-info{
   margin-top: 16px;
 }
+
+.top_access-info_map-box{
+  margin-top: 16px;
+}
+
+@media screen and (min-width: 1080px) {
+  .top_access-info_map-box{
+    width: 384px;
+  }
+}
+
 @media screen and (min-width: 1080px) {
   .top_access-info{
     margin-top: 16px;
@@ -1484,10 +1495,6 @@ td.table_border_after{
 @media screen and (min-width: 1080px) {
   .top_access-info_box{
     width: 344px;
-  }
-
-  .top_access-info_map-box{
-    width: 384px;
   }
 
   .top_info-map{
