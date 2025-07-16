@@ -1481,6 +1481,7 @@ td.table_border_after{
 @media screen and (min-width: 1080px) {
   .top_access-info_map-box{
     width: 384px;
+    margin-top: 0px;
   }
 }
 
